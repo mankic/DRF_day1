@@ -7,7 +7,7 @@ DRF 특강 1일차 과제
 
 
  2. mutable과 immutable은 어떤 특성이 있고, 어떤 자료형이 어디에 해당하는지 서술하기
-  - mutable : 수정 가능한 객체 (list, dict). 하나의 주소값을 갖는다.
+  - mutable : 수정 가능한 객체 (list, dict, set). 하나의 주소값을 갖는다.
   - immutabel : 수정 불가능한 객체 (int, float, str, tuple). 재할당되면 주소값이 바뀌어버린다.
 
 
